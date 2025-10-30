@@ -2,6 +2,8 @@
 
 A Shopify Liquid theme section that displays an interactive store locator with Google Maps integration, search functionality, and route directions.
 
+![Alt text](image.png)
+
 ## Features
 
 - **Interactive Map**: Displays store locations on a Google Maps interface
